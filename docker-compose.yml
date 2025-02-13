@@ -1,0 +1,16 @@
+version: '3'
+services:
+  flowise:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - DATABASE_TYPE=postgres
+      - DATABASE_HOST=$DATABASE_HOST 
+      - DATABASE_PORT=5432
+      - DATABASE_NAME=$DATABASE_NAME
+      - DATABASE_USER=$DATABASE_USER
+      - DATABASE_PASSWORD=$DATABASE_PASSWORD 
+      - DATABASE_SSL=true
+    restart: always
