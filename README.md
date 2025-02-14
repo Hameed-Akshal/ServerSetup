@@ -5,4 +5,5 @@
 
 ## Flowise
 
-## The Flowise setup guide is available at: [Flowise server setup](https://github.com/Hameed-Akshal/ServerSetup/tree/flowise)
+## The Flowise setup guide is available at: 
+1. [Local Flowise server setup](https://github.com/Hameed-Akshal/ServerSetup/blob/flowise/README.md#local)
