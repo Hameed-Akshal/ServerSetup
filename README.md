@@ -1,9 +1,8 @@
 # ServerSetup
 
-
-
-## Gitlab:  https\://github.com/Hameed-Akshal/ServerSetup/blob/Gitlab/GitLabServer.md
-
-
 ## GitLab 
-## The GitLab version of this setup guide is available at:  [GitLab Server Setup](https://github.com/Hameed-Akshal/ServerSetup/blob/Gitlab/GitLabServer.md)
+## The GitLab setup guide is available at:  [GitLab Server Setup](https://github.com/Hameed-Akshal/ServerSetup/blob/Gitlab/GitLabServer.md)
+
+## Flowise
+
+## The Flowise setup guide is available at: [Flowise server setup](https://github.com/Hameed-Akshal/ServerSetup/tree/flowise)
